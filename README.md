@@ -44,9 +44,9 @@ The project includes:
 
 ## 📊 Results
 
-RMSE: ~28,064 (lower is better)
-R² Score: ~0.8973 (closer to 1 is better)
-Insights: Model explains ~89.7% of price variance
+- RMSE: ~28,064 (lower is better)
+- R² Score: ~0.8973 (closer to 1 is better)
+- Insights: Model explains ~89.7% of price variance
 
 ---
 
