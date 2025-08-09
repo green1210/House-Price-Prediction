@@ -19,13 +19,6 @@ It uses the **Ames Housing Dataset** and implements an **XGBoost Regressor** for
 ---
 
 ## 📌 Overview
-The goal is to **predict house sale prices** given various property attributes such as:
-- Lot size
-- Year built
-- Overall quality
-- Neighborhood
-- Living area size
-- And more...
 
 The project includes:
 - Data preprocessing (handling missing values, encoding categories, scaling)
@@ -55,8 +48,58 @@ The project includes:
 
 ---
 
-## 🔄 Project Workflow
+## Visualize Results
 
-1. **Load Data**
-   ```python
-   df = pd.read_csv("train.csv")
+📈 Actual vs Predicted Prices
+📊 Error Distribution Histogram
+
+---
+
+## 📊 Results
+
+RMSE: ~28,064 (lower is better)
+R² Score: ~0.8973 (closer to 1 is better)
+Insights: Model explains ~89.7% of price variance
+
+---
+
+## 🚀 Installation & Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/house-price-prediction.git
+   cd house-price-prediction
+2. Create Virtual Environment:
+   ```bash
+   python -m venv env
+   # Activate:
+     # Windows
+       env\Scripts\activate
+     # Mac/Linux
+       source env/bin/activate
+3. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+4. Run the script:
+   ```bash
+   python house_price_prediction.py
+   
+---
+
+## 📸 Screenshots
+
+| Prediction Error | Error Distribution |
+|------------------|-----------------|
+| ![](./screenshots/prediction_error.png) | ![](./screenshots/error_distribution.png) |
+
+---
+
+## 📜 License
+ This project is licensed under the MIT License
+
+ ---
+
+## 🙌 Acknowledgments
+
+Kaggle - House Prices Dataset
+XGBoost Documentation
+
