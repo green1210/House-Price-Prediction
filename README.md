@@ -5,19 +5,6 @@ It uses the **Ames Housing Dataset** and implements an **XGBoost Regressor** for
 
 ---
 
-## 📖 Table of Contents
-- [Overview](#-overview)
-- [Dataset](#-dataset)
-- [Technologies Used](#-technologies-used)
-- [Project Workflow](#-project-workflow)
-- [Results](#-results)
-- [Installation & Usage](#-installation--usage)
-- [Future Improvements](#-future-improvements)
-- [License](#-license)
-- [Acknowledgments](#-acknowledgments)
-
----
-
 ## 📌 Overview
 
 The project includes:
