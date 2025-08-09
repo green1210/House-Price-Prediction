@@ -37,8 +37,8 @@ The project includes:
 
 ## Visualize Results
 
-📈 Actual vs Predicted Prices
-📊 Error Distribution Histogram
+- 📈 Actual vs Predicted Prices
+- 📊 Error Distribution Histogram
 
 ---
 
@@ -81,12 +81,12 @@ Insights: Model explains ~89.7% of price variance
 ---
 
 ## 📜 License
- This project is licensed under the MIT License
+ - This project is licensed under the MIT License
 
  ---
 
 ## 🙌 Acknowledgments
 
-Kaggle - House Prices Dataset
-XGBoost Documentation
+- Kaggle - House Prices Dataset
+- XGBoost Documentation
 
