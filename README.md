@@ -75,7 +75,7 @@ The project includes:
 ## 📸 Screenshots
 
 | Prediction Error | Error Distribution |
-|------------------|-----------------|
+|------------------|--------------------|
 | ![](./screenshots/prediction_error.png) | ![](./screenshots/error_distribution.png) |
 
 ---
